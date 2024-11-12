@@ -1,4 +1,4 @@
-
+  
 .globl str_ge, recCheck
 
 .data
